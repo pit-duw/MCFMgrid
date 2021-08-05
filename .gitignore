@@ -1,0 +1,5 @@
+*.o
+*.a
+MCFM-6.8/Bin/mcfm
+MCFM-6.8/Bin/*.txt
+
